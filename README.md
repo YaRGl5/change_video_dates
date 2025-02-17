@@ -1,5 +1,11 @@
 # change_video_dates
 by yargl5
+
+
+!!!!BEFORE USING IT, CHANGE THE PATH IN THE FILE ITSELF
+!!!!ПЕРЕД ИСПОЛЬЗОВАНИЕМ ПОМЕНЯЙТЕ ПУТЬ В САМОМ ФАЙЛЕ
+
+
 This project was created for me to solve the problem with the date in the mp4 files.
 Этот проект был создан для меня чтобы решить проблему с датой в файлах мп4
 
